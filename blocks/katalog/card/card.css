@@ -1,6 +1,14 @@
-.card{
+.card {
     background-color: #E5E5E5;
     border-radius: 16px;
     padding: 24px;
     cursor: pointer;
 }
+
+.card:hover {
+    transform: scale(0.9);
+  }
+  
+  .card:hover .wrapper {
+    transform: scale(1.1)
+  }
