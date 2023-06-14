@@ -1,0 +1,27 @@
+.info__button {
+    all: unset;
+    height: 44px;
+    background-color: #E5E5E5;
+    border-radius: 5px;
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 0px 20px;
+    cursor: pointer;
+}
+
+.info__button_basket{
+    color: rgba(244, 245, 248, 1);
+    margin-left: 380px;
+    background-image: url(../../../images/basket.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.info__button_inform{
+    background-color: rgba(32, 34, 38, 1);
+    color: rgba(255, 255, 255, 1);
+    margin-top: 20px;
+}

@@ -1,0 +1,11 @@
+.header__text {
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #757575;
+    margin-top: 18px;
+    margin-left: 32px;
+    cursor: pointer;
+}

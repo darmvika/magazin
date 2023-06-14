@@ -1,0 +1,4 @@
+.button__one{
+    display: flex;
+    column-gap: 8px;
+}

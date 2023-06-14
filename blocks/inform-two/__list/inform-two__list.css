@@ -1,0 +1,5 @@
+.inform-two__list{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+    gap: 17px 52px;
+}

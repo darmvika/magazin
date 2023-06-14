@@ -1,0 +1,12 @@
+.form__input {
+    all: unset;
+    width: 424px;
+    height: 52px;
+    border-bottom: solid 2px #FFFFFF;
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #9F9F9F;
+}

@@ -1,0 +1,5 @@
+.info{
+    width: calc(100% - 80px);
+    margin: auto;
+    padding-top: 20px;
+}

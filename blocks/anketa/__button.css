@@ -1,0 +1,16 @@
+.form__button {
+    all: unset;
+    width: 125px;
+    height: 44px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    color: #161616;
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 56px;
+    cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.anketa{
+    width: calc(100% - 80px);
+    background-color: #202226;
+    padding: 60px 40px;
+    border-radius: 20px;
+    display: flex;
+    margin-bottom: 100px;
+}
