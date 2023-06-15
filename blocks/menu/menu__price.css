@@ -1,0 +1,12 @@
+.menu__price {
+    margin: 0;
+    margin-right: 0;
+    width: 264px;
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    padding-top: 52px;
+    padding-bottom: 20px;
+}

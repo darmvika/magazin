@@ -11,3 +11,8 @@ button:hover {
 button:hover .wrapper {
     transform: scale(0.9)
 }
+
+a{
+    all:unset;
+    scroll-behavior: smooth;
+}

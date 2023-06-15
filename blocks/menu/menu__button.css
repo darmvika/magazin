@@ -1,0 +1,14 @@
+.menu__button {
+    all: unset;
+    width: 264px;
+    height: 44px;
+    background-color: #202226;
+    border-radius: 8px;
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    }

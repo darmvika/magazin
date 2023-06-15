@@ -1,0 +1,12 @@
+.menu {
+    background-color: #E5E5E5;
+    width: 304px;
+    height: 512px;
+    border-radius: 16px;
+    margin: 0;
+
+}
+
+.menu:hover {
+    transform: scale(1.1);
+}

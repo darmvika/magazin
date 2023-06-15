@@ -30,3 +30,13 @@
 @import url(../blocks/anketa/__title.css);
 @import url(../blocks/anketa/__subtitle.css);
 @import url(../blocks/info/link.css);
+@import url(../blocks/katalog__info/katalog__info_title.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/menu__button.css);
+@import url(../blocks/menu/menu__price.css);
+@import url(../blocks/menu/menu__inform.css);
+@import url(../blocks/menu/menu__title.css);
+@import url(../blocks/menu/menu__text.css);
+@import url(../blocks/menu/menu__name.css);
+@import url(../blocks/menu/menu__img.css);
+@import url(../blocks/menu/katalog__menu.css);

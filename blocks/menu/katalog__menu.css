@@ -1,0 +1,6 @@
+.katalog__menu{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(304px, 1fr));
+    gap: 16px;
+    row-gap: 50px;
+}

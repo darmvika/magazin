@@ -8,3 +8,8 @@
     line-height: 24px;
     margin: 0;
 }
+
+.group__title_katalog{
+    display: block;
+    width: 248px;
+}
