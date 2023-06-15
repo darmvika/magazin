@@ -1,0 +1,12 @@
+.spisok__title {
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+.spisok__title:active{
+    font-weight: 900;
+}

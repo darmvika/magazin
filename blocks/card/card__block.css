@@ -1,0 +1,11 @@
+.card__block{
+    width: 944px;
+    height: 560px;
+    background-color: #E5E5E5;
+    border-radius: 16px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding: 40px;
+}

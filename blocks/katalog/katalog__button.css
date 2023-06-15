@@ -1,0 +1,17 @@
+.katalog__button {
+    all: unset;
+    margin: auto;
+    width: 624px;
+    height: 44px;
+    margin-top: 60px;
+    background-color: #E5E5E5;
+    border-radius: 8px;
+    text-align: center;
+    font-family: 'Golos';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 200px;
+    cursor: pointer;
+}

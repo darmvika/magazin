@@ -4,7 +4,7 @@
     height: 512px;
     border-radius: 16px;
     margin: 0;
-
+    cursor: pointer;
 }
 
 .menu:hover {

@@ -1,0 +1,6 @@
+.card__inform{
+    width: 378px;
+    border-bottom: 1px solid #757575;
+    display: flex;
+    justify-content: space-between;
+}
